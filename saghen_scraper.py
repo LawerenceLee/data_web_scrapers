@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import Select
 BROWSER = webdriver.Firefox()
 ALL_DATA_cols = []
 DATES_WITHOUT_DATA = []
-CURRENT_COL_ARRANGEMENT = 'Hour Total Air Soil Relative Snowof Day Solar Wind Temperature Temperature Humidity Dew Wet Baro. Depth TotalEnding at Rad. Ave. V. Dir. Max. Mean Max Min Mean Max Min Mean Max Min Point Bulb Press. Precip.L.S.T. ° ly. mph Deg mph Deg. F. Deg. F. Percent Deg. F. in. Hg. inches inches'
+CURRENT_COL_ARRANGEMENT = ''
 
 
 def clear():
